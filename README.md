@@ -55,7 +55,7 @@
 
 ## 作品集链接二维码
 
-作品集地址：[https://github.com/18000978795/portfolio](https://github.com/18000978795/portfolio)
+作品集地址：https://github.com/18000978795/ai-resume-optimizer
 
 二维码文件：
 
