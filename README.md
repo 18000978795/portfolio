@@ -51,9 +51,6 @@
 - 适合作为前端工程化和产品原型能力展示
 
 - ### 3.ai简历优化工具
-作品集地址：https://github.com/18000978795/ai-resume-optimizer
-
-## 作品集链接二维码
 
 作品集地址：https://github.com/18000978795/ai-resume-optimizer
 
